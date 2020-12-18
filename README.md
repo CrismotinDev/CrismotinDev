@@ -1,6 +1,6 @@
 
 - 🌱 I’m currently learning Java, c#, javascript, Html, Css
--👯 I’m looking  adquirir maior conhecimento nas tecnologias
+-👯 I’m looking acquire greater knowledge in technologies
 - 
 Eu sou Cristiane, apaixonada por diversas áreas desse mundo maravilhoso da tecnologia. Cursando ADS no Instituto Federal do Paraná
 
