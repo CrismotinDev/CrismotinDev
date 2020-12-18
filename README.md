@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**CrismotinDev/CrismotinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning Java, c#, javascript, Html, Css
 -👯 I’m looking  adquirir maior conhecimento nas tecnologias
