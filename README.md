@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo Java, c#, javascript, Html, Css, Spring Boot, React Js, typeScript✔
 -👯 Procuro adquirir maior conhecimento em tecnologias.
 
-🔭 Estou estudando Análise e Desenvolvimento de Sistemas no IFPR.
+🔭 Estou estudando Análise e Desenvolvimento de Sistemas no IFPR. E atuando como desenvolvedora Junior na empresa Rp info.
 
 🌱 Estou estudando atualmente Spring Boot React. 
 
