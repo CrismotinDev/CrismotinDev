@@ -1,12 +1,12 @@
 👋 Hello, I am Cristiane Motin
 
 
-- 🌱 Atualmente estou aprendendo Java, c#, javascript, Html, Css, Spring Boot, React Js, typeScript✔
+- 🌱 Atualmente estou trabalhando em projetos de aplicações web como Full Stack, utilizando tecnologias como PHP/Laravel, SQL Server, Mysql, PostgreSQL, OracleDB, Azure, GIT, JavaScript, Jquery, ReactJS, Bootstrap, HTML5, CSS3 entre outras. Em alguns projetos pessoais tive a oportunidade de desenvolver com as mais variadas tecnologias, dentre elas: Android, Java, C++, C#.
 -👯 Procuro adquirir maior conhecimento em tecnologias.
 
-🔭 Estou estudando Análise e Desenvolvimento de Sistemas no IFPR. E atuando como desenvolvedora Junior na empresa Rp info.
+🔭 Sou formada em Análise e Desenvolvimento de Sistemas no IFPR. E atuando como desenvolvedora Junior na empresa Rp info.
 
-🌱 Estou estudando atualmente Spring Boot React. 
+🌱 Estou estudando atualmente Php Laravel e React. 
 
 👯 Para ganhar mais experiência procuro colaborar nos projetos Open Source.
 
